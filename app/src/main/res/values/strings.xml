@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="allium">Allium</string>
+    <string name="allium_desc">Sophisticated establishment featuring refined New Canadian cuisine in a low-lit, romantic setting.</string>
+    <string name="allium_addy">87 Holland Ave, Ottawa, ON K1Y 0Y1</string>
+    <string name="frasercafe">Fraser Cafe</string>
+    <string name="frasercafe_desc">Polished outfit for locally sourced, globally inspired dishes amid stone accents and communal tables.</string>
+    <string name="frasercafe_addy">7 Springfield Rd, Ottawa, ON K1M 1C8</string>
+    <string name="museum_desc">The Canadian Museum of History, formerly the Canadian Museum of Civilization, is Canadas national museum of human history. It is located in the Hull area of Gatineau, Quebec, directly across the Ottawa River from Parliament Hill in Ottawa, Ontario.</string>
+    <string name="museum">History Museum</string>
+    <string name="museum_addy">100 Laurier St, Gatineau, QC K1A 0M8</string>
+    <string name="parliament">Parliament Hill</string>
+    <string name="parliament_desc">Parliament Hill, colloquially known as The Hill, is an area of Crown land on the southern banks of the Ottawa River in downtown Ottawa, Ontario, Canada.</string>
+    <string name="parliament_addy">Wellington St, Ottawa, ON K1A 0A4</string>
+    <string name="shop">Rideau Centre</string>
+    <string name="shop_desc">The Rideau Centre is a four-level shopping centre on Rideau Street in Ottawa, Ontario, Canada. It borders on Rideau Street, the ByWard Market, the Rideau Canal, the Mackenzie King Bridge, and Nicholas Street in Downtown Ottawa.</string>
+    <string name="shop_addy">50 Rideau St, Ottawa, ON K1N 9J7</string>
+
+
+</resources>
